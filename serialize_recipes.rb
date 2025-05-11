@@ -6,38 +6,48 @@ BASE_URL = 'https://ricettegiapponesi.jeko.net'
 RECIPES_DIR = Pathname.new('recipes')
 INGREDIENTS_DIR = Pathname.new('ingredients')
 
-# Estrai testo tra due intestazioni Markdown
+# Extract text between Markdown headers
 def extract_section(content, section)
   regex = /^##\s*#{section}\s*\n(.*?)(?=^##|\z)/m
   match = content.match(regex)
   match ? match[1].strip : nil
 end
 
-# Estrai lista puntata come array
+# Extract bullet list items as an array
 def extract_bullets(text)
   return [] unless text
   text.lines.map(&:strip).select { |line| line.start_with?('-') }.map { |line| line[1..].strip }
 end
 
-# Estrai immagini e trasformale in URL assoluti
+# Extract image URLs and convert them to absolute URLs
 def extract_images(text)
   return [] unless text
   text.scan(/!\[.*?\]\((\/.*?)\)/).map { |match| BASE_URL + match[0] }
 end
 
-# Crea URL pubblico a partire dal path relativo
-def build_url(file_path)
-  BASE_URL + '/' + file_path.to_s
+# Rewrite markdown links [text](/path/file.md) to [text](https://...)
+def rewrite_links(text)
+  text.gsub(/\[(.*?)\]\((\/.*?).md\)/) do
+    label = Regexp.last_match(1)
+    path = Regexp.last_match(2)
+    "[#{label}](#{BASE_URL}#{path})"
+  end
 end
 
-# Parsare file Markdown con frontmatter
+# Build public URL from relative file path
+def build_url(file_path, base_dir)
+  relative_path = file_path.relative_path_from(base_dir).to_s
+  web_path = relative_path.sub(/\.md$/, '')
+  BASE_URL + '/' + base_dir.to_s + '/' + web_path
+end
+
+# Parse a Markdown file with frontmatter
 def parse_markdown(file_path, base_dir:, extract_sections: false)
   content = File.read(file_path)
   if content =~ /\A---\s*\n(.*?)\n---\s*\n(.*)/m
     frontmatter = YAML.safe_load($1)
-    body = $2.strip
-    relative_path = file_path.relative_path_from(base_dir).to_s
-    url = build_url("#{base_dir}/#{relative_path}")
+    body = rewrite_links($2.strip)
+    url = build_url(file_path, base_dir)
 
     data = {
       title: frontmatter['title'],
@@ -57,27 +67,27 @@ def parse_markdown(file_path, base_dir:, extract_sections: false)
 
     data
   else
-    puts "⚠️ Frontmatter mancante in: #{file_path}"
+    puts "⚠️ Missing frontmatter in: #{file_path}"
     nil
   end
 end
 
-# Parse ricette
+# Parse recipes
 recipes = RECIPES_DIR.glob('**/*.md').map do |file|
   parse_markdown(file, base_dir: RECIPES_DIR, extract_sections: true)
 end.compact
 
-# Parse ingredienti
+# Parse ingredients
 ingredients = INGREDIENTS_DIR.glob('**/*.md').map do |file|
   parse_markdown(file, base_dir: INGREDIENTS_DIR)
 end.compact
 
-# Scrittura JSON
+# Write output to JSON
 output = {
   recipes: recipes,
   ingredients: ingredients
 }
 
 File.write('ricettario.json', JSON.pretty_generate(output))
-puts "✅ Serializzazione completata: ricettario.json"
-puts "📦 #{recipes.size} ricette, #{ingredients.size} ingredienti"
+puts "✅ Serialization complete: ricettario.json"
+puts "📦 #{recipes.size} recipes, #{ingredients.size} ingredients"

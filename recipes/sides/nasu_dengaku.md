@@ -1,9 +1,10 @@
 ---
 title: Nasu Dengaku
 description: Melanzane al miso
+tags: [sides, vegetarian, vegan]
 ---
 
-![Potetosarada](/assets/images/nasudengaku.jpg)
+![Nasu Dengaku](/assets/images/nasudengaku.jpg)
 
 ## Ingredienti
 

@@ -1,1 +1,1 @@
-npm test
+ruby serialize_recipes.rb

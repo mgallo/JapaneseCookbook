@@ -6,6 +6,14 @@ The cookbook is available at http://ricettegiapponesi.jeko.net/
 
 To run locally
 
+insall Retype
+
+```bash
+npm install retypeapp --global
 ```
+
+Then run the following command in the root of the project
+
+```bash
 retype start
 ```

@@ -17,3 +17,16 @@ Then run the following command in the root of the project
 ```bash
 retype start
 ```
+
+to update the `ricettario.json` file, run
+
+```bash
+ruby serialize_recipes.rb
+```
+
+to add an hook to the `serialize_recipes.rb` file,  install `husky`
+
+```bash
+npm install --save-dev husky
+npx husky init
+```

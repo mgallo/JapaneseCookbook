@@ -1,5 +1,14 @@
 ---
 title: Yakitori Tare
+description: Salsa per yakitori
+ingredients:
+- Opzionale - zenzero e aglio grattugiati
+- acqua
+- mirin
+- sake
+- salsa di soia
+- verde delle cipolline o porro
+- zucchero di canna
 ---
 
 ## Ingredienti

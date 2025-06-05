@@ -1,6 +1,16 @@
 ---
 title: Takikomi Gohan (Riso misto) 炊き込みご飯
 description: Riso svuotafrigo cotto direttamente nella risiera
+ingredients:
+- carota
+- dashi
+- mirin
+- pollo
+- tonno in scatola
+- riso
+- sale
+- salsa di soia
+- shiitake
 ---
 
 Il Takikomi gohan e' il riso misto con quello che vuoi dentro, cotto direttamente nella risiera.

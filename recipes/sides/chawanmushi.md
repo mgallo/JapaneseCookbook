@@ -1,6 +1,19 @@
 ---
 title: Chawanmushi
 description: Budino di uova cotto al vapore
+ingredients:
+- dashi
+- mirin
+- sake
+- sale
+- salsa di soia
+- uovo
+- ginnan
+- edamame
+- shiitake
+- gamberi
+- prezzemolo
+- cipolline
 ---
 
 ## Ingredienti per 4 persone

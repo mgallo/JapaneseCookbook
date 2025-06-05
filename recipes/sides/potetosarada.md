@@ -1,7 +1,20 @@
 ---
 title: Potetosarada (ポテトサラダ)
 description: Insalata di patate
-tags: [sides, vegetarian]
+tags:
+- sides
+- vegetarian
+ingredients:
+- Aceto di riso
+- Carote
+- Cetriolo
+- Cipolla dorata
+- Maionese Kewpie
+- Patate a pasta gialla
+- Pepe
+- Sale
+- Zucchero circa
+- mirin
 ---
 
 ![Potetosarada](/assets/images/potetosarada.jpg)

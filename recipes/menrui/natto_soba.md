@@ -1,6 +1,14 @@
 ---
 title: Natto Soba
-description: Spaghetti di grano saraceno freddi con natto, cipolline, alga nori e altre delizie
+description: Spaghetti di grano saraceno freddi con natto, cipolline, alga nori e
+  altre delizie
+ingredients:
+- Cipolline verdi o negi
+- Kizami nori
+- natto
+- katsuobushi
+- soba
+- uovo
 ---
 
 ## Ingredienti per 2 persone
@@ -9,7 +17,7 @@ description: Spaghetti di grano saraceno freddi con natto, cipolline, alga nori 
 - 1 confezione di [natto](/ingredients/natto.md)
 - [katsuobushi](/ingredients/katsuobushi.md)
 - [Kizami nori](/ingredients/kizami_nori.md)
-- 1 uovo fresco che si posa mangiare crudo (opzionale)
+- 1 uovo fresco che si possa mangiare crudo (opzionale)
 
 ### Per il condimento
 - mezza tazza di [mentsuyu](/recipes/base_preparations/stocks/mentsuyu.md)

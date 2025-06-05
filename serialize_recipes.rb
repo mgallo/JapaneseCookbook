@@ -46,6 +46,12 @@ def parse_markdown(file_path, base_dir:, extract_sections: false)
   content = File.read(file_path)
   if content =~ /\A---\s*\n(.*?)\n---\s*\n(.*)/m
     frontmatter = YAML.safe_load($1)
+
+    if frontmatter['visibility'] == 'hidden'
+      puts "🚫 Skipping hidden file: #{file_path}"
+      return nil
+    end
+
     body = rewrite_links($2.strip)
     url = build_url(file_path, base_dir)
 

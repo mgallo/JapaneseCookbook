@@ -22,19 +22,6 @@
       "preparation": null
     },
     {
-      "title": "Tonkatsu",
-      "description": "La cotoletta alla giapponese!",
-      "url": "https://ricettegiapponesi.jeko.net/recipes/agemono/tonkatsu",
-      "content": "Tonkatsu recipe bla bla bla...",
-      "images": [
-
-      ],
-      "ingredients": [
-
-      ],
-      "preparation": null
-    },
-    {
       "title": "Hiyayakko",
       "description": "Tofu freddo con condimento",
       "url": "https://ricettegiapponesi.jeko.net/recipes/appetizers/hiyayakko",
@@ -237,19 +224,6 @@
       "preparation": "Metti tutto in un pentolino e porta molto dolcemente a ebollizione, poi spegni il fuoco e lascia freddare\n\nFiltra tutto e metti in un barattolo, la salsa inizia a dare il meglio di se dopo 2-3 giorni in frigorifero. Non so ancora quanto si conservi a lungo, ne ho una di 2 mesi, sembra buona e non sono ancora morto."
     },
     {
-      "title": "Tonkotsu",
-      "description": "Il brodo di ossa di maiale per il ramen",
-      "url": "https://ricettegiapponesi.jeko.net/recipes/base_preparations/stocks/tonkotsu",
-      "content": "Tonkotsu recipe bla bla bla...",
-      "images": [
-
-      ],
-      "ingredients": [
-
-      ],
-      "preparation": null
-    },
-    {
       "title": "Prepare il pesce per sushi e sashimi",
       "description": null,
       "url": "https://ricettegiapponesi.jeko.net/recipes/base_preparations/sushi_and_sashimi/fish_preparation",
@@ -344,19 +318,6 @@
       "preparation": null
     },
     {
-      "title": "Butadon",
-      "description": "La ciotola di riso con carne di maiale",
-      "url": "https://ricettegiapponesi.jeko.net/recipes/rice/butadon",
-      "content": "",
-      "images": [
-
-      ],
-      "ingredients": [
-
-      ],
-      "preparation": null
-    },
-    {
       "title": "Gyudon",
       "description": "La ciotola di riso con carne di manzo e cipolla",
       "url": "https://ricettegiapponesi.jeko.net/recipes/rice/gyudon",
@@ -368,19 +329,6 @@
 
       ],
       "preparation": "Taglia la cipolla a fettine sottili per il lungo, e la cipollina verde a rondelle sottili.\nIn una padella mmetti il dashi, la [salsa di soia](https://ricettegiapponesi.jeko.net/ingredients/shoyu), il mirin e il sake e le cipolle, fai cuocere a fuoco medio fino a che le cipolle non si ammorbidiscono.\nUsa un coperchio per non far evaporare il brodo. Dopo 2-3 minuti aggiungi la carne e fai cuocere finche' la carne non e' piu' rosa.\nQuando la carne e' cotta, spegni il fuoco e aggiungi la cipollina verde. Versa il tutto sopra il riso caldo e guarnisci con beni shoga."
-    },
-    {
-      "title": "Onigiri",
-      "description": "I suppli' giapponesi - prove me wrong",
-      "url": "https://ricettegiapponesi.jeko.net/recipes/rice/onigiri",
-      "content": "Onigiri recipe bla bla bla...",
-      "images": [
-
-      ],
-      "ingredients": [
-
-      ],
-      "preparation": null
     },
     {
       "title": "Oyakodon",
@@ -457,19 +405,6 @@
       "preparation": "Mettere a bollire le patate.\n\nTagliare il cetriolo e la cipolla sottilissimi, metterli in uno scolapasta con un po' di sale e metterci sopra un canovaccio con un peso. Far drenare per 15-20 minuti. Dopo, eliminare il sale in eccesso (anche con una sciaquata veloce) e strizzare bene con un canovaccio (mi raccomando bene)\n\nSbollentare le carota sbucciate per qualche minuto, poi tagliarle a fettine o cubetti (come prederite)\n\nUna volta che le patate sono pronte, sbucciarle senza scottarsi, metterle in una terrina e schiacciarle con una forchetta come per fare il pure', lasciando dei pezzetti per avere una consistenza piu' varia (aho poi a me piacciono cosi poi voi fate come vi pare)\n\nAggiungere cetriolo, cipolla, carota, la maionese, il mirin e l'aceto di riso, lo zucchero, il sale e il pepe e mescolare. I condimenti finali vanno un po' a piacere, soprattutto per quanto riguarda lo zucchero."
     },
     {
-      "title": "Chanko Nabe",
-      "description": "La zuppa dei lottatori di Sumo con dentro tutto",
-      "url": "https://ricettegiapponesi.jeko.net/recipes/soups/chanko_nabe",
-      "content": "",
-      "images": [
-
-      ],
-      "ingredients": [
-
-      ],
-      "preparation": null
-    },
-    {
       "title": "Misoshiru (味噌汁) - La zuppa di miso",
       "description": "Zuppa di miso",
       "url": "https://ricettegiapponesi.jeko.net/recipes/soups/misoshiru",
@@ -486,19 +421,6 @@
       "title": null,
       "description": null,
       "url": "https://ricettegiapponesi.jeko.net/recipes/soups/omiotsuke",
-      "content": "",
-      "images": [
-
-      ],
-      "ingredients": [
-
-      ],
-      "preparation": null
-    },
-    {
-      "title": "Tonjiru",
-      "description": "Zuppa di maiale",
-      "url": "https://ricettegiapponesi.jeko.net/recipes/soups/tonjiru",
       "content": "",
       "images": [
 
@@ -578,19 +500,6 @@
       "description": "Aglio conservato in salsa di soia",
       "url": "https://ricettegiapponesi.jeko.net/recipes/tsukemono/ninniku-shoyuzuke",
       "content": "Il Ninniku Shoyuzuke è una preparazione semplice per chi ama i sapori intensi. Si tratta di spicchi d'aglio immersi e conservati nella salsa di soia. Con il tempo, l'aglio assorbe il sapore salato e umami della [salsa di soia](https://ricettegiapponesi.jeko.net/ingredients/shoyu), perdendo parte del suo morso pungente e diventando allo stesso tempo più morbido e gustoso. Questo metodo di conservazione non solo prolunga la durata dell'aglio ma lo trasforma in un condimento versatile che può essere usato per dare carattere a piatti, marinature o anche da solo, come contorno o antipasto.\n\n## Ricetta 1\n\n### Ingredienti\n\n- 1 tazza di spicchi di aglio\n- 3/4 tazza di zucchero (a me sembra troppa)\n- 1 tazza di [salsa di soia](https://ricettegiapponesi.jeko.net/ingredients/shoyu)\n- 1/2 tazza di aceto di riso\n\n### Preprarazione\n\nMettere la [salsa di soia](https://ricettegiapponesi.jeko.net/ingredients/shoyu), lo zucchero e l'aceto di riso in un pentolino, portare a bollore e spegnere il fuoco.\nVersare il preparato in un barattolo di vetro sterilizzato insieme all'aglio.\nChiudere il barattolo e mettere in frigo. Il composto e' pronto dopo 3-4 settimane (meglio 4-5) e si conserva in frigo almeno 12 settimane.\n\n## Ricetta 2\n\n### Ingredienti\n\n- 1 tazza di spicchi di aglio\n- [salsa di soia](https://ricettegiapponesi.jeko.net/ingredients/shoyu) sufficiente a coprire l'aglio\n\n### Preprarazione\n\nMettere l'aglio in un barattolo di vetro, coprire con la [salsa di soia](https://ricettegiapponesi.jeko.net/ingredients/shoyu) e lasciarlo in frigo per almeno 3-4 settimane.\n\n## Ricetta 3\n\n### Ingredienti\n\n- 10 teste d'aglio\n- 2 tazze di aceto di riso\n- 1 1/4 tazza di [salsa di soia](https://ricettegiapponesi.jeko.net/ingredients/shoyu)\n- 2 cucchiai di zucchero\n\n### Preprarazione\n\nPulire gli spicchi d'aglio e privarli del picciolo. Sterilizzare un barattolo di vetro.\nMettere gli spicchi d'aglio nel barattolo sterilizzato e ricoprire di aceto, mettere in frigorifero per 2 settimane.\nDopo 2 settimane, togliere 2/3 dell'aceto di riso (si puo' mettere da parte e usarlo come condimento).\nIn una ciotola, sciogliere completamente lo zucchero nella [salsa di soia](https://ricettegiapponesi.jeko.net/ingredients/shoyu), e versare il composto nel barattolo dell'aglio.\nFar riposare in frigorifero per altre 6 settimane. Il tempo totale di marinatura dovrebbe essere 2 mesi.\nServire tagliando gli spicchi d'aglio orizzontalmente in 2 parti.\n\n### Provare\n\nProvare a sobbollire l'aglio per 5 minuti, dovrebbe ridurre i tempi di marinatuda.",
-      "images": [
-
-      ],
-      "ingredients": [
-
-      ],
-      "preparation": null
-    },
-    {
-      "title": "Shibazuke",
-      "description": "Cetrioli e melanzane in salamoia di shiso",
-      "url": "https://ricettegiapponesi.jeko.net/recipes/tsukemono/shibazuke",
-      "content": "",
       "images": [
 
       ],

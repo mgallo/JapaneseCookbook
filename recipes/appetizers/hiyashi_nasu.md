@@ -14,7 +14,7 @@ Questa ricetta, Hiyashi Nasu (melanzane fredde), è un classico piatto da Izakay
 
 ## Ingredienti
 - 1 o 2 Melanzane piccole e sode
-- [Cipolline verdi](/ingredients/negi.md) (nel video sono considerate opzionali, ma consigliate)
+- [Cipolline verdi](/ingredients/negi.md)
 - [Salsa di soia](/ingredients/shoyu.md)
 - [Katsuobushi](/ingredients/katsuobushi.md)
 

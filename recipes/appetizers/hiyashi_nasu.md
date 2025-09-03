@@ -1,23 +1,32 @@
 ---
-title: Hiyashi Nasu
-description: Melanzane fredde con condimento
+title: Hiyashi Nasu (Melanzane Fredde)
+description: Un piatto tipico degli Izakaya giapponesi, semplicissimo e incredibilmente buono.
 ingredients:
 - Melanzane
 - Cipolline verdi
-- Negi
-- Katsuobushi
 - Salsa di soia
+- Katsuobushi
 ---
 
-Hiyashi Nasu, ovvero melanzane fredde condite, sono un antipasto immancabile in ogni Izakaya che si rispetti, sono semplicissime da fare, buonissime ed e sono una bella figura facile facile da portare a casa in caso abbiate ospiti.
+In Giappone, sognare una melanzana nella prima notte dell'anno (Hatsuyume) è considerato di buon auspicio. Un antico proverbio dice: "Primo, il Monte Fuji; secondo, il falco; terzo, la melanzana". Questo perché la parola giapponese per melanzana, *nasu*, ha lo stesso suono del verbo "realizzare" o "portare a termine" (*nasu*), rendendola un simbolo di successo.
+
+Questa ricetta, Hiyashi Nasu (melanzane fredde), è un classico piatto da Izakaya, le osterie giapponesi dove si mangia e si beve in compagnia. È una di quelle preparazioni semplici che esaltano il sapore degli ingredienti e che aiutano a compensare l'astinenza da Giappone.
 
 ## Ingredienti
-- 2-3 melanzane piccole
-- Cipolline verdi o negi
-- Katsuobushi
-- Salsa di soia
+- 1 o 2 Melanzane piccole e sode
+- [Cipolline verdi](/ingredients/negi.md) (nel video sono considerate opzionali, ma consigliate)
+- [Salsa di soia](/ingredients/shoyu.md)
+- [Katsuobushi](/ingredients/katsuobushi.md)
 
 ## Preparazione
-Per questa ricetta utilizzeremo una scorciatoia con un microonde, se non lo avete o non lo volete utilizzare, una vaporiera andra' benissimo. Pelare le melanzane con un pelapatate, avvolegerle strette strette con della carta da cucina (tipo scottex), bagnare la carta e strizzarla bene. Avvolgerle poi con della pellicola da cucina adatta al microonde. Cuocere le melanzane nel microonde, una ad una, 3 minuti alla massima potenza, girandole dopo un minuto e mezzo. A fine cottura scartatele immediatamente, e fatele freddare. Una volta che sono a temperatura ambiente, tagliarle e metterle in frigorifero finche' non saranno fredde.
+Sbucciare completamente la melanzana con un pelapatate. Avvolgerla poi molto stretta in un foglio di carta da cucina.
 
-Vanno gustate fredde, quindi tiratele fuori dal frigo appena prima di servirle, conditele con le cipolline tagliate sottili, un cucchiano di salsa di soia e del katsuobushi per guarnire.
+Passare la melanzana avvolta sotto l'acqua corrente, bagnando uniformemente la carta. Strizzarla bene per eliminare l'acqua in eccesso. Avvolgere nuovamente il tutto, ben stretto, con della pellicola per alimenti adatta al microonde.
+
+Cuocere la melanzana nel microonde per 3 minuti alla massima potenza. Questo metodo è una scorciatoia per la classica cottura al vapore.
+
+Appena finita la cottura, scartare immediatamente la melanzana dalla pellicola e dalla carta. Lasciarla raffreddare prima a temperatura ambiente, poi metterla in un contenitore e trasferirla in frigorifero finché non sarà completamente fredda.
+
+Prendere la melanzana fredda dal frigo e tagliarla a fette o a tocchetti. Disporla su un piattino. Guarnire con le cipolline affettate finemente, condire con un po' di salsa di soia e completare con una generosa manciata di katsuobushi.
+
+Provate assolutamente a rifarlo perché è veramente buono, buono, buono. Itadakimasu!

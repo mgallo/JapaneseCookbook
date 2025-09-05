@@ -19,13 +19,15 @@ ingredients:
 
 Non togliere la polvere bianca dall'alga Kombu: quello è il glutammato naturalmente presente nell'alga, fonte di umami, ed è esattamente il motivo per cui usiamo la kombu.
 
-Versare l'acqua in una pentola, mettere l'alga kombu a bagno e lasciar riposare per almeno 2 ore (l'alga kombu deve reidratarsi completamente)
+Versare l'acqua in una pentola, mettere l'alga kombu a bagno e lasciar riposare per almeno 1 ora (l'alga kombu deve reidratarsi completamente)
 
-Coprire con un coperchio e portare quasi ad ebollizione a fiamma bassa (più ci mette, meglio è). Conviene usare un termometro per spegnere la fiamma quando l’acqua raggiunge gli 80-90 gradi.
+Coprire con un coperchio e portare a 70-80 gradi a fiamma bassa (più ci mette, meglio è). Conviene usare un termometro, quando l’acqua raggiunge la temperatura spegnere la fiamma, e lasciare in infusione per altri 10 minuti.
 
+!!!warning Importante!
 Non deve bollire assolutamente, perché’ se l’alga kombu bolle, caccia tutta una gelatina puzzolente che poi dovete scappare di casa.
+!!!
 
-Appena prima che bolla spegnere la fiamma, togliere l’alga kombu, rialzare la fiamma e portare ad ebollizione, ed eliminare la schiuma con una schiumarola a setaccio fino.
+Togliere l’alga kombu, rialzare la fiamma e portare ad ebollizione, ed eliminare la schiuma con una schiumarola a setaccio fino.
 
 Spegnare la fiamma, e mettere un bel pugno di katsuobushi. Attendere che affondi completamente (anche 30-40 minuti).
 
@@ -41,6 +43,8 @@ Volendo potete utilizzare di nuovo il katsuobushi e l’alga kombu per fare un s
 In alternativa, si possono essiccare e sbriciolare kombu e katsuobushi per fare il [furikake](/recipes/base_preparations/condiments/furikake.md).
 
 Ad ogni modo, cercate di non buttare subito kombu e katsuobushi.
+
+Se volete, esiste la versione vegana del dashi, che utilizza l’alga kombu e i funghi shiitake essiccati, che trovate [qui](/recipes/base_preparations/stocks/vegan_dashi.md).
 !!!
 
 ## Video

@@ -16,14 +16,14 @@ ingredients:
 ## Ingredienti
 
 - Pasta precotta a temperatura ambiente (ramen noodles o altra pasta)
-- Salsa yakisoba
+- [Salsa yakisoba](/recipes/base_preparations/sauces/yakisoba_sauce.md)
 - Cipolla
 - Cavolo cappuccio
-- Benishoga
+- [Benishoga](/ingredients/beni_shoga.md)
 - Pancetta (opzionale)
-- Funghi shiitake (opzionale)
-- Aonori
-- Katsuobushi
+- [Funghi shiitake](/ingredients/shiitake.md) (opzionale)
+- [Aonori](/ingredients/aonori.md)
+- [Katsuobushi](/ingredients/katsuobushi.md)
 
 Gli Yakisoba sono una ricetta giapponese di pasta saltata in padella con verdure e salsa yakisoba, ci puoi mettere dentro piu' o meno quello che vuoi, anche carne o frutti di mare, ma la versioneche preferisco e' con cavolo cappuccio, cipolla, funghi shiitake e pancetta.
 

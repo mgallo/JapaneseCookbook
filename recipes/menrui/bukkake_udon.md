@@ -13,6 +13,8 @@ ingredients:
 
 La parola **Bukkake** in giapponese deriva dal verbo *bukkakeru*, che vuol dire versare sopra o rovesciare addosso con forza. Infatti, ridendo e scherzando, oggi prepariamo proprio i Bukkake Udon!
 
+![Bukkake Udon](/assets/images/bukkake_udon.jpg)
+
 ## Ingredienti
 - Udon confezionati (quelli freschi vanno benissimo, ma anche quelli secchi andranno bene)
 - Un pezzo di 5cm di [Daikon](/ingredients/daikon.md)

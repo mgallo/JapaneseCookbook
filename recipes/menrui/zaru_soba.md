@@ -15,6 +15,8 @@ Gli zaru soba sono spaghetti di grano saraceno freddi, serviti con una salsa a b
 
 Cercate di trovare degli spaghetti di grano saraceno di buona qualita', con la piu' alta percentuale di grano saraceno possibile. Sono molto difficili da trovare purtroppo, e spesso la percentuale di farina di farina di grano saraceno e' molto bassa, anche 20%. Controllate sempre bene l'etichetta.
 
+![Zaru soba](/assets/images/zaru_soba.jpg)
+
 ## Ingredienti per 2 persone
 
 - 200g di spaghetti di grano saraceno

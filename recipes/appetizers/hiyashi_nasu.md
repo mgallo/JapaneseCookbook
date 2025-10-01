@@ -12,6 +12,8 @@ In Giappone, sognare una melanzana nella prima notte dell'anno (Hatsuyume) è co
 
 Questa ricetta, Hiyashi Nasu (melanzane fredde), è un classico piatto da Izakaya, le osterie giapponesi dove si mangia e si beve in compagnia. È una di quelle preparazioni semplici che esaltano il sapore degli ingredienti e che aiutano a compensare l'astinenza da Giappone.
 
+![Hiyashi Nasu](/assets/images/hiyashi_nasu.jpg)
+
 ## Ingredienti
 - 1 o 2 Melanzane piccole e sode
 - [Cipolline verdi](/ingredients/negi.md)

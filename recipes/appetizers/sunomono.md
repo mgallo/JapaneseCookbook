@@ -14,6 +14,8 @@ ingredients:
 
 Perfette per rinfrescare la torrida estate, dei bellissimi piatti freddi giapponesi! Si parla di **Sunomono**, ovvero insalatine con condimento a base di aceto. Vedremo la versione classica con cetriolo e alghe wakame, e quella super lusso con l'aggiunta del polpo. E adesso, vi faccio vedere come si fanno!
 
+![Sunomono](/assets/images/sunomono.jpg)
+
 ## Ingredienti
 - 1 **Cetriolo** (se lo trovate, è molto meglio quello giapponese: stretto, lungo e sbruzzoloso)
 - **[Alghe Wakame](/ingredients/wakame.md)** essiccate

@@ -14,6 +14,8 @@ La zuppa di miso (味噌汁, misoshiru) è una delle zuppe più iconiche della c
 
 Questa è la ricetta base, poi uno nella zuppa di miso ci può mettere quello che gli pare (cipolle, carote, funghi shiitake, pomodori, sedano, verze...)
 
+![Zuppa di miso](/assets/images/misoshiru.jpg)
+
 ## Ingredienti (a porzione)
 
 - 1 tazza di [dashi](/recipes/base_preparations/stocks/dashi.md)

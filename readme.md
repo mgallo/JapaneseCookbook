@@ -2,59 +2,108 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/80a3d727-7506-4555-8637-07fbe3145b1e/deploy-status)](https://app.netlify.com/sites/courageous-rabanadas-aca8ca/deploys)
 
-The cookbook is available at http://ricettegiapponesi.jeko.net/
+The cookbook is available at https://ricettegiapponesi.jeko.net/
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
+---
+
+## Prerequisites
+
+- Node.js 20 or 22 LTS
+- npm 9+
+
+---
+
 ## Installation
 
+Use npm. If `package-lock.json` is present, prefer `npm ci`.
+
 ```bash
-yarn
+# first time or on CI
+npm ci
+
+# or, if you are developing and adding deps
+npm install
 ```
+
+---
 
 ## Local Development
 
 ```bash
-yarn start
+npm start
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+This starts the dev server and opens a browser. Changes hot-reload automatically.
+
+---
 
 ## Build
 
 ```bash
-yarn build
+npm run build
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+This generates static files into the `build` directory.
 
-## Deployment
-
-Using SSH:
+Optional local preview:
 
 ```bash
-USE_SSH=true yarn deploy
+npm run serve
 ```
 
-Not using SSH:
+---
+
+## Deployment on Netlify
+
+This project is deployed on Netlify.
+
+### Setup (once)
+- Build command: `npm run build`
+- Publish directory: `build`
+- Environment:
+  - `NODE_VERSION = 22`
+
+You can connect the site to this GitHub repo for automatic deploys on push.
+
+### Manual deploy via CLI (optional)
 
 ```bash
-GIT_USER=<Your GitHub username> yarn deploy
+npm run build
+npx netlify-cli deploy --prod --dir build
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+You will be prompted to pick the existing site.
+
+---
 
 ## Serialize recipes for AI
 
-to update the `ricettario.json` file, run
+To update `ricettario.json`:
 
 ```bash
 ruby serialize_recipes.rb
 ```
 
-to add an hook to the `serialize_recipes.rb` file,  install `husky`
+To add a git hook that runs `serialize_recipes.rb`, install Husky:
 
 ```bash
 npm install --save-dev husky
 npx husky init
 ```
+
+Then edit `.husky/pre-commit` and add:
+
+```bash
+ruby serialize_recipes.rb
+git add ricettario.json
+```
+
+---
+
+## Scripts
+
+- `npm start` — start local dev server
+- `npm run build` — build static site
+- `npm run serve` — preview the built site locally

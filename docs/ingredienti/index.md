@@ -1,4 +1,0 @@
----
-title: 🍅 Ingredienti
-slug: /ingredienti
----

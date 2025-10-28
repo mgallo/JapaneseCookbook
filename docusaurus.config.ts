@@ -84,14 +84,6 @@ const config: Config = {
       },
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'mainSidebar',
-          position: 'left',
-          label: 'Ricette',
-        },
-        // {to: '/ingredienti', label: 'Ingredienti', position: 'left'},
-        // {to: '/blog', label: 'Blog', position: 'left'},
-        {
           href: 'https://github.com/amicojeko/japanesecookbook',
           label: 'GitHub',
           position: 'right',
@@ -103,16 +95,7 @@ const config: Config = {
       links: [
         {
           title: 'Le Ricette Giapponesi di Jeko',
-          items: [
-            {
-              label: 'Ingredienti',
-              to: '/ingredienti',
-            },
-            {
-              label: 'Ricette',
-              to: '/ricette',
-            },
-          ],
+          items: [],
         },
         {
           title: 'Social media',

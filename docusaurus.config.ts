@@ -9,7 +9,7 @@ const config: Config = {
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
   trailingSlash: true,
-
+  themes: ['@docusaurus/theme-search-algolia'],
   markdown: {
     hooks: {
       onBrokenMarkdownLinks: 'throw'
@@ -69,6 +69,19 @@ const config: Config = {
   ],
 
   themeConfig: {
+    algolia: {
+      appId: '9DWNYPKJD0',
+      apiKey: 'b31d01c5282cee1939baf74e884ce829',
+      indexName: 'ricettegiapponesi',
+      contextualSearch: true,
+      insights: true,
+      placeholder: 'Cerca ricette e ingredienti',
+      searchParameters: {
+        distinct: 1,
+      },
+      // Optional: path for search page that enabled by default (`false` to disable it)
+      // searchPagePath: 'search',
+    },
     image: 'img/social_media_card.png',
     metadata: [
       {name: 'twitter:card', content: 'summary_large_image'},

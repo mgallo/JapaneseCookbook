@@ -43,7 +43,7 @@ const config: Config = {
 
   presets: [
     [
-      'classic',
+      '@docusaurus/preset-classic',
       {
         docs: {
           routeBasePath: '/',
@@ -61,6 +61,10 @@ const config: Config = {
         },
         theme: {
           customCss: './src/css/custom.css',
+        },
+        gtag: {
+          trackingID: 'G-YZDG2VN7ZG',
+          anonymizeIP: true,
         },
       } satisfies Preset.Options,
     ],

@@ -20,10 +20,7 @@ const config: Config = {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
   },
 
-  // Set the production url of your site here
   url: 'https://ricettegiapponesi.jeko.net',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
@@ -34,9 +31,6 @@ const config: Config = {
   onBrokenLinks: 'throw',
   onBrokenAnchors: 'throw',
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'it',
     locales: ['it'],
@@ -74,7 +68,6 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
     image: 'img/social_media_card.png',
     metadata: [
       {name: 'twitter:card', content: 'summary_large_image'},
@@ -85,7 +78,10 @@ const config: Config = {
           'Tutte le ricette giapponesi spiegate passo passo, con foto e video. Scopri i segreti della cucina giapponese con Jeko!'
       },
       {name: 'twitter:image', content: 'img/social_media_card.png'},
-      {name: 'og:description', content: 'Tutte le ricette giapponesi spiegate passo passo, con foto e video. Scopri i segreti della cucina giapponese con Jeko!'},
+      {
+        name: 'description',
+        content: 'Tutte le ricette giapponesi spiegate passo passo, con foto e video. Scopri i segreti della cucina giapponese con Jeko!'
+      },
     ],
     colorMode: {
       respectPrefersColorScheme: true,

@@ -9,7 +9,6 @@ const config: Config = {
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
   trailingSlash: true,
-  themes: ['@docusaurus/theme-search-algolia'],
   markdown: {
     hooks: {
       onBrokenMarkdownLinks: 'throw'

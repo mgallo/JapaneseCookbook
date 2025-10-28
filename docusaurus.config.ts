@@ -76,7 +76,17 @@ const config: Config = {
   themeConfig: {
     // Replace with your project's social card
     image: 'img/social_media_card.png',
-    metadata: [{name: 'twitter:card', content: 'summary_large_image'}],
+    metadata: [
+      {name: 'twitter:card', content: 'summary_large_image'},
+      {name: 'twitter:title', content: 'Le ricette giapponesi di Jeko'},
+      {
+        name: 'twitter:description',
+        content:
+          'Tutte le ricette giapponesi spiegate passo passo, con foto e video. Scopri i segreti della cucina giapponese con Jeko!'
+      },
+      {name: 'twitter:image', content: 'img/social_media_card.png'},
+      {name: 'og:description', content: 'Tutte le ricette giapponesi spiegate passo passo, con foto e video. Scopri i segreti della cucina giapponese con Jeko!'},
+    ],
     colorMode: {
       respectPrefersColorScheme: true,
     },

@@ -153,6 +153,13 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
+
+  plugins: [
+    [
+      '@docusaurus/plugin-ideal-image',
+      { quality: 80, max: 1600, min: 320, steps: 4, disableInDev: false }
+    ]
+  ]
 };
 
 export default config;

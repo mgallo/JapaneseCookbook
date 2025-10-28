@@ -195,7 +195,7 @@
     "description": "The first paragraph of the 404 page"
   },
   "theme.NotFound.p2": {
-    "message": "Contatta il proprietario del sito che ti ha collegato all'URL originale e fagli sapere che il loro collegamento è interrotto.",
+    "message": "Forse la ricetta o l'ingrediente è stato spostato. Usa il menu di navigazione in alto per trovare ciò che stai cercando.",
     "description": "The 2nd paragraph of the 404 page"
   },
   "theme.TOCCollapsible.toggleButtonLabel": {

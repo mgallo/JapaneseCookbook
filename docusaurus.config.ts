@@ -5,8 +5,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Le Ricette Giapponesi di Jeko',
+  tagline: 'La Jekucina a casa tua!',
   favicon: 'img/favicon.ico',
   trailingSlash: true,
   markdown: {
@@ -102,8 +102,9 @@ const config: Config = {
     navbar: {
       title: 'Le Ricette Giapponesi di Jeko',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/icon_128.png',
+        alt: 'Jeko',
+        src: 'img/logo_katakana.png',
+        srcDark: 'img/logo_katakana_dark.png',
       },
       items: [
         {

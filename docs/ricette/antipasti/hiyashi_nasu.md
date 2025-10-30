@@ -33,3 +33,7 @@ Appena finita la cottura, scartare immediatamente la melanzana dalla pellicola e
 Prendere la melanzana fredda dal frigo e tagliarla a fette o a tocchetti. Disporla su un piattino. Guarnire con le cipolline affettate finemente, condire con un po' di salsa di soia e completare con una generosa manciata di katsuobushi.
 
 Provate assolutamente a rifarlo perché è veramente buono, buono, buono. Itadakimasu!
+
+:::tip
+Per una versione vegana, potete sostituire il katsuobushi con dell'[agedama](/ingredienti/agedama) (palline di tempura sbriciolate) o con dei semi di sesamo tostati.
+:::

@@ -29,7 +29,7 @@ E infatti oggi vi racconterò questa: la favola della melanzana che voleva esser
 - 1 cucchiaino di Zucchero
 - [Olio di semi di sesamo](/ingredienti/sesame_oil) per la cottura
 - [Riso](/ingredienti/rice) bianco cotto per servire
-- [Semi di sesamo](/ingredienti/sesame) tostati per guarnire
+- [Semi di sesamo](/ingredienti/sesamo) tostati per guarnire
 - [Cipolline verdi](/ingredienti/negi) per guarnire
 
 ## Preparazione

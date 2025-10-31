@@ -29,7 +29,7 @@ Un piatto talmente buono che crea dipendenza! Bastano pochi minuti per cuocere l
 - ½ cucchiaino di Brodo di pollo granulare
 - 1 cucchiaino di Aglio grattugiato
 - 1 cucchiaino di Zenzero grattugiato
-- 1 cucchiaino di [Semi di sesamo](/ingredienti/sesame) tostati
+- 1 cucchiaino di [Semi di sesamo](/ingredienti/sesamo) tostati
 
 ## Preparazione
 In una ciotola capiente, unire tutti gli ingredienti per la salsa: salsa di soia, aceto, zucchero, brodo granulare, aglio, zenzero e semi di sesamo. Mescolare bene e mettere da parte.

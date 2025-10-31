@@ -24,7 +24,7 @@ Perfette per rinfrescare la torrida estate, dei bellissimi piatti freddi giappon
 - **[Sushisu](/ricette/sushisu)** (l'aceto per sushi)
 - **[Salsa di soia](/ingredienti/shoyu)** (Shoyu)
 - **[Olio di sesamo](/ingredienti/sesame_oil)** (qualche goccia, volendo)
-- **[Semi di sesamo](/ingredienti/sesame)** tostati
+- **[Semi di sesamo](/ingredienti/sesamo)** tostati
 - Sale fino
 
 ## Preparazione

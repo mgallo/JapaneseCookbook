@@ -19,19 +19,23 @@ In giappone esiste un tipo di cucina ispirato alla cucina occidentale chiamato Y
 
 ![Hamburger Don](/img/ricette/hamburger_don.jpg)
 
-## Ingredienti (Per 3 persone)
+## Ingredienti (Per 1 persona)
 
-- 3 ciotole di [Riso](/ingredienti/rice) caldo (circa 600g)
-- 350g di Carne macinata mista (manzo e maiale)
-- 3 Uova
-- 1 Cipolla (circa 200g)
+- 3Una ciotola di [Riso](/ingredienti/rice) caldo
+- 150g di Carne macinata a piacere (manzo, maiale o mista)
+- 1 Uovo
+- 1/2 Cipolla
 - Sale e pepe q.b.
 - 1 cucchiaio di Olio di semi
 
 ### Per la salsa
 
-- 4 cucchiai di Ketchup
-- 3 cucchiai di Salsa Worcestershire (dovrei provare anche con la salsa Tonkatsu)
+- 1 cucchiaio di Ketchup
+- 1 cucchiaio di Salsa Worcestershire
+
+o, in alternativa
+
+- 2 cucchiai di Salsa Tonkatsu
 
 ## Preparazione
 

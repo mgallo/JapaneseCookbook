@@ -12,3 +12,11 @@ slug: "/negozi_orientali/veneto"
 Via Giambattista Morgagni, 30/a, 35121 Padova PD \
 https://food.kissashop.it \
 [Link alla mappa](https://maps.app.goo.gl/bqa9zC2sSU81YXdu6)
+
+- **SUPERMERCATO ASIA AFRICA** \
+Via Annibale da Bassano, 3, 35131 Padova PD
+[Link alla mappa](https://maps.app.goo.gl/1a8CdwVcQec926zF9)
+
+- **K-Shop Padova** \
+Piazzetta Amleto Sartori, 14, 35137 Padova PD \
+[Link alla mappa](https://maps.app.goo.gl/xTATMWZWtTfw38NTA)

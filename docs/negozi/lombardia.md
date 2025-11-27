@@ -13,9 +13,9 @@ Via Piacenza, 24, 20135 Milano MI \
 [Link alla mappa](https://maps.app.goo.gl/vJW7wWYPJNnbWWmY8A)
 
 - **Mood Market** \
-Codice di sconto MOODJEKO2025 \
 Via Paolo Sarpi, 41, 20154 Milano MI \
 https://moodmarketmilano.com \
+Codice di sconto online MOODJEKO2025 \
 [Link alla mappa](https://maps.app.goo.gl/XsRRvHhJDujRPGy8A)
 
 - **Zenmarket Japanese & Korean Foods** \

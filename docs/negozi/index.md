@@ -8,3 +8,16 @@
 # Le pagine Giappe: Negozi orientali in Italia
 
 In questa sezione trovate un elenco di negozi fisici e online in Italia dove acquistare ingredienti, utensili e prodotti giapponesi, coreani e cinesi. Se conoscete altri negozi che non sono elencati qui, segnalatemeli pure mandandomi un DM su [Instagram](http://instagram.com/amicojeko)!
+
+- [Negozi Online](/negozi_orientali/online)
+- [Negozi orientali in Abruzzo](/negozi_orientali/abruzzo)
+- [Negozi orientali in Campania](/negozi_orientali/campania)
+- [Negozi orientali in Emilia-Romagna](/negozi_orientali/emilia_romagna)
+- [Negozi orientali in Lazio](/negozi_orientali/lazio)
+- [Negozi orientali in Lombardia](/negozi_orientali/lombardia)
+- [Negozi orientali in Marche](/negozi_orientali/marche)
+- [Negozi orientali in Piemonte](/negozi_orientali/piemonte)
+- [Negozi orientali in Sardegna](/negozi_orientali/sardegna)
+- [Negozi orientali in Toscana](/negozi_orientali/toscana)
+- [Negozi orientali in Umbria](/negozi_orientali/umbria)
+- [Negozi orientali in Veneto](/negozi_orientali/veneto)

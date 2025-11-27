@@ -20,4 +20,8 @@ Corso Novara, 13, 80142 Napoli NA \
 Corso Novara, 5, 80142 Napoli NA \
 [Link alla mappa](https://maps.app.goo.gl/tCYCBjwqrB8CbyLt8)
 
+## Terzigno
 
+- **诚信中国店chengxin makert** \
+Corso Luigi Einaudi, 11, 80040 Terzigno NA \
+[Link alla mappa](https://maps.app.goo.gl/cwmpCG1YouDJKSuR7)

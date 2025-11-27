@@ -5,6 +5,7 @@
   pagination_next: null
   pagination_prev: null
   hide_table_of_contents: true
+  sidebar_position: 0
 ---
 import '../src/css/homepage.css';
 

@@ -108,6 +108,11 @@ const config: Config = {
       },
       items: [
         {
+          to: '/negozi_orientali',
+          label: 'Pagine Giappe',
+          position: 'left'
+        },
+        {
           href: 'https://github.com/amicojeko/japanesecookbook',
           label: 'GitHub',
           position: 'right',
@@ -119,7 +124,12 @@ const config: Config = {
       links: [
         {
           title: 'Le Ricette Giapponesi di Jeko',
-          items: [],
+          items: [
+            {
+              label: 'Pagine giappe - Negozi orientali in Italia',
+              to: '/negozi_orientali',
+            },
+          ],
         },
         {
           title: 'Social media',
@@ -149,10 +159,6 @@ const config: Config = {
         {
           title: 'More',
           items: [
-            // {
-            //   label: 'Blog',
-            //   to: '/blog',
-            // },
             {
               label: 'GitHub',
               href: 'https://github.com/amicojeko/japanesecookbook',

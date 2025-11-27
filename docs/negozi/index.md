@@ -9,7 +9,7 @@
 
 In questa sezione trovate un elenco di negozi fisici e online in Italia dove acquistare ingredienti, utensili e prodotti giapponesi, coreani e cinesi. Se conoscete altri negozi che non sono elencati qui, segnalatemeli pure mandandomi un DM su [Instagram](http://instagram.com/amicojeko)!
 
-- [Negozi Online](/negozi_orientali/online)
+- [Negozi orientali Online](/negozi_orientali/online)
 - [Negozi orientali in Abruzzo](/negozi_orientali/abruzzo)
 - [Negozi orientali in Campania](/negozi_orientali/campania)
 - [Negozi orientali in Emilia-Romagna](/negozi_orientali/emilia_romagna)

@@ -24,3 +24,9 @@ Piazzetta Amleto Sartori, 14, 35137 Padova PD \
 - **Asia e Africa Market di Chen Qiao Wei** \
 Piazza A. de Gasperi, 53, 35131 Padova PD \
 [Link alla mappa](https://maps.app.goo.gl/wWZHTYcRiUa3h9hF7)
+
+## Treviso
+
+- **Oriente Market Snc** \
+Viale Alcide de Gasperi, 36, 31100 Treviso TV \
+[Link alla mappa](https://maps.app.goo.gl/rD8v8RLq4UE1dSUy8)

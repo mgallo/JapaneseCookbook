@@ -51,3 +51,7 @@ Via Prenestina, 234C/D, 00176 Roma RM \
 - **天天红超市 Alimentari orientali tiantian hong** \
 Largo Preneste, 3, 00177 Roma RM \
 [Link alla mappa](https://maps.app.goo.gl/hZAcCyrXU3iuov2F6)
+
+- **Panda Market** \
+Via della Meloria, 9/13, 00136 Roma RM \
+[Link alla mappa](https://maps.app.goo.gl/hG7nEMR5qVNmy8w4A)

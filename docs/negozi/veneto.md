@@ -20,3 +20,7 @@ Via Annibale da Bassano, 3, 35131 Padova PD
 - **K-Shop Padova** \
 Piazzetta Amleto Sartori, 14, 35137 Padova PD \
 [Link alla mappa](https://maps.app.goo.gl/xTATMWZWtTfw38NTA)
+
+- **Asia e Africa Market di Chen Qiao Wei** \
+Piazza A. de Gasperi, 53, 35131 Padova PD \
+[Link alla mappa](https://maps.app.goo.gl/wWZHTYcRiUa3h9hF7)

@@ -6,6 +6,16 @@ slug: "/negozi_orientali/piemonte"
 
 # Negozi orientali in Piemonte
 
+## Alessandria
+
+- **Alimentari Cinese** \
+Via Camillo Cavour, 9, 15121 Alessandria AL \
+[Link alla mappa](https://maps.app.goo.gl/YyvB7da4bPze9EBK9)
+
+- **Mini market China** \
+Via Marengo, 2, 15121 Alessandria AL \
+[Link alla mappa](https://maps.app.goo.gl/ZjQ4PPKAEwhWgvtAA)
+
 ## Torino
 
 * **Kawaii.Torino** \

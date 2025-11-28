@@ -6,6 +6,12 @@ slug: "/negozi_orientali/lombardia"
 
 # Negozi orientali in Lombardia
 
+## Brescia
+
+- **SuperCity Food Market** \
+Via Corsica, 201, 25125 Brescia BS \
+[Link alla mappa](https://maps.app.goo.gl/tQtWUcTPXc7NFNGn7)
+
 ## Milano
 
 - **Gaghe** \
